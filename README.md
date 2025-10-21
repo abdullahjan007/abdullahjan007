@@ -25,12 +25,12 @@ Currently, I’m working in an organization where I design and manage **Azure-ba
 * Building robust pipelines
 * Creating visibility through monitoring and logs
 
-### 📫 Connect With Me
 
-* [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
-* [Email](mailto:YOUR-EMAIL@example.com)
+* ### 📫 Connect With Me  
+
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahjan007)
+* [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aj5761006@gmail.com)
+
 
 ---
 
-![Abdullah’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdullah-Jan\&show_icons=true\&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Jan\&layout=compact\&theme=radical)
