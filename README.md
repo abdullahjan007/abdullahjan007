@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdullah Jan
 
-🚀 **Junior DevOps Engineer | Azure CI/CD | Docker | Kubernetes (CKA in progress)**
+🚀 **DevOps Engineer | Azure CI/CD | Docker | Kubernetes (CKA in progress)**
 
 I'm a **Junior DevOps Engineer** passionate about automation, cloud infrastructure, and observability.
 Currently, I’m working in an organization where I design and manage **Azure-based CI/CD pipelines**, and I love exploring tools that make systems more reliable and scalable.
